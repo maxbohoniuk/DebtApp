@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PRM_PRO01</string>
+    <string name="add_text">Add</string>
+    <string name="uploadButton">Add photo</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="simulation">Simulation</string>
+</resources>
